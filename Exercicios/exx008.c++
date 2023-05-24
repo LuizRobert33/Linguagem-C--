@@ -11,7 +11,7 @@ int main(){
     {
        if (i%3==0||i%5==0)
        {
-        Soma += 1;
+        Soma += i;
        }
        
        
