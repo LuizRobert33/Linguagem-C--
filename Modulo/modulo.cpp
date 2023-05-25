@@ -1,6 +1,3 @@
-#include <iostream>
-
-void meuModulo()
-{
-    std::cout << "Olá, eu sou um módulo em C++!" << std::endl;
+int area_quadrado(int lado){
+    return lado * lado;
 }
